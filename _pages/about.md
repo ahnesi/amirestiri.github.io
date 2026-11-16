@@ -12,7 +12,7 @@ redirect_from:
 
 Greetings!
 
-    I'm a Research Engineer in Huawei Noah's Ark Lab at Montreal, working in the NetMind team. Previously, I completed a master's degree in Computer Science at McGill University and did my undergrad in Computer Engineering at Sharif University of Technology. In my high school years I had the opportunity to participate in Internationl Physics Olympiad (IPhO) competitions which cemented in me a love for physics and the realm of theoretical thinking
+    I'm a Research Engineer in Huawei Noah's Ark Lab at Montreal, working in the NetMind team. Previously, I completed a master's degree in Computer Science at McGill University and did my undergrad in Computer Engineering at Sharif University of Technology. In high school I won a gold medal at the International Physics Olympiad (IPhO) 2016, after ranking 1st and winning gold at the Iranian National Physics Olympiad. That experience cemented in me a love for physics and the realm of theoretical thinking.
 
 
 <!-- <h2>Interests</h2> -->
@@ -39,6 +39,24 @@ For the 2nd project we developed a Variational Auto-Encoder (VAE) model that sen
 
 <h3>Advanced Network Research Lab (ANRL) @ McGill University</h3>
 The focus of my Master's thesis was on predicting and adapting to data distribution drifts in large distributed networks. We developed a triple attention model that keeps local models in a network as robust as possible to data drifts meanwhile minimizing the communication necessary to adapt to these issues. This [paper](https://arxiv.org/abs/2111.07457) is on Arxiv.
+
+<h2>Publications & Patents</h2>
+
+* **Understanding Hessian Alignment for Domain Generalization**<br>S. Hemati, G. Zhang, **A. Estiri**, X. Chen. *ICCV 2023*.
+* **Beyond Loss Functions: Exploring Data-Centric Approaches with Diffusion Model for Domain Generalization**<br>S. Hemati, M. Beitollahi, **A. H. Estiri**, et al. *Transactions on Machine Learning Research (TMLR), 2024*.
+* **Leveraging Generative Foundation Models for Domain Generalization**<br>S. Hemati, M. Beitollahi, **A. H. Estiri**, et al. *ICML 2024 Workshop on Foundation Models in the Wild*.
+* **[DFML: Decentralized Federated Mutual Learning](https://arxiv.org/abs/2402.01863)**<br>Y. H. Khalil, **A. H. Estiri**, M. Beitollahi, et al. *arXiv, 2024*.
+* **[Attentive Federated Learning for Concept Drift in Distributed 5G Edge Networks](https://arxiv.org/abs/2111.07457)**<br>**A. H. Estiri**, M. Maheswaran. *arXiv, 2021*.
+* **[A Variational Auto-Encoder Approach for Image Transmission in Noisy Channel](https://ieeexplore.ieee.org/abstract/document/9345813)**<br>**A. H. Estiri**, M. R. Sabramooz, A. Banaei, et al. *IST 2020*.
+* **Methods, Systems and Apparatuses for Communication Network-Based Machine Learning**<br>X. Chen, W. Tong, **A. H. Estiri**, et al. *US Patent App. 19/561,838*.
+
+See all on [Google Scholar](https://scholar.google.ca/citations?user=xk759nwAAAAJ&hl=en).
+
+
+<h2>Honors</h2>
+
+* Gold Medal, International Physics Olympiad (IPhO) 2016
+* Gold Medal, Iranian National Physics Olympiad (ranked 1st)
 
 
 
