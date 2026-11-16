@@ -12,7 +12,7 @@ redirect_from:
 
 Greetings!
 
-    I'm a Research Engineer in Huawei Noah's Ark Lab at Montreal, working in the NetMind team. Previously, I completed a master's degree in Computer Science at McGill University and did my undergrad in Computer Engineering at Sharif University of Technology. In high school I won a gold medal at the International Physics Olympiad (IPhO) 2016, after ranking 1st and winning gold at the Iranian National Physics Olympiad. That experience cemented in me a love for physics and the realm of theoretical thinking.
+    I'm a founding engineer at [Voltai](https://voltai.com), where I lead the Forward Deployed Engineering (FDE) team and build AI agents for semiconductor companies. Before that, I was an Associate Machine Learning Researcher at Huawei Noah's Ark Lab in Montreal, working in the NetMind team. I completed a master's degree in Computer Science at McGill University and did my undergrad in Computer Engineering at Sharif University of Technology. In high school I won a gold medal at the International Physics Olympiad (IPhO) 2016, after ranking 1st and winning gold at the Iranian National Physics Olympiad. That experience cemented in me a love for physics and the realm of theoretical thinking.
 
 
 <!-- <h2>Interests</h2> -->
@@ -20,14 +20,14 @@ Greetings!
 
 <h2>Experience</h2>
 
-<h3>Founding Engineer & FDE Lead @ Voltai</h3>
-I joined Voltai, a Sequoia-backed startup building AI agents for semiconductor companies, as a founding engineer in February 2024. I wrote agentic AI code for the core product and owned the company's infrastructure end to end. As the product moved into customer deployments, I started and led the Forward Deployed Engineering (FDE) team. I designed the deployment architecture that lets Voltai run inside customer-managed environments on AWS, Azure and GCP, and deployed it on-site with customers. I also managed customer relationships, from scoping and setting expectations through rollout and support.
+<h3>FDE Lead (2025 – Present) & Founding Engineer (Feb 2024 – 2025) @ Voltai</h3>
+I joined Voltai, a Sequoia-backed startup building AI agents for semiconductor companies, as a founding engineer in February 2024. I wrote agentic AI code for the core product and owned the company's infrastructure end to end. As the product moved into customer deployments, I started and led the Forward Deployed Engineering (FDE) team. I designed the deployment architecture that lets Voltai run inside customer-managed environments on AWS, Azure and GCP, and deployed it on-site with customers. I also managed customer relationships, from scoping and setting expectations through rollout and support. My team of 4 has delivered around 20 successful enterprise deployments, including environments with SOC 2, ITAR and FedRAMP requirements.
 
-<h3>Associate Researcher @ Huawei Noah's Ark Lab</h3>
+<h3>Associate Machine Learning Researcher @ Huawei Noah's Ark Lab (Mar 2022 – Feb 2024)</h3>
 At Huawei Noah's Ark Lab in Montreal, I worked in the NetMind team, which develops the tools needed for the next stage of Native-AI in 6G. With my colleagues I implemented, tested and proposed different methods for decentralized learning and knowledge aggregation of ML models in distributed environments. As part of this project I researched probabilistic and information-theoretic methods to measure, constrain and direct the flow of ML information in networks, to make the communication of knowledge more efficient. My main focus was on Optimal Transport, Information Bottleneck and related research directions.
 
-<h3>AI Expert @ FANAP</h3>
-I've had the chance to work alongside many talented people and learn a lot from them. I started my career as an intern at FANAP (Tehran, Iran) as an AI expert. I directly contributed to 2 projects. During that time I had the chance to explore my interest in the field of Artificial Intelligence (AI) and Machine Learning (ML). The first project involved creating an Automated Speech Recognition (ASR) system in persian language. This model was used as an assistant to help people with visual disabilities to complete their mobile banking tasks. The goal of the second project was to create a smart gym mirror for home workouts that would give helpful feedback on how to perform workouts. I helped in creating and compressing the pose estimation model and to deploy it on mobile phones with the help of Unity engine.
+<h3>AI Expert @ FANAP (Mar 2019 – Sep 2020)</h3>
+I've had the chance to work alongside many talented people and learn a lot from them. I started my career at FANAP (Tehran, Iran) as an AI expert. I directly contributed to 2 projects. During that time I had the chance to explore my interest in the field of Artificial Intelligence (AI) and Machine Learning (ML). The first project involved creating an Automated Speech Recognition (ASR) system in persian language. This model was used as an assistant to help people with visual disabilities to complete their mobile banking tasks. The goal of the second project was to create a smart gym mirror for home workouts that would give helpful feedback on how to perform workouts. I helped in creating and compressing the pose estimation model and to deploy it on mobile phones with the help of Unity engine.
 
 
 
@@ -62,7 +62,7 @@ See all on [Google Scholar](https://scholar.google.ca/citations?user=xk759nwAAAA
 
 <h2>Personal Projects</h2>
 
-During the years through my own curiosity, I have started multiple projects and played around with different tools and methods. You can find the codes and documentations for my projects in my [github](https://github.com/AmirEstiri) page.
+During the years through my own curiosity, I have started multiple projects and played around with different tools and methods. You can find the codes and documentations for my projects in my [github](https://github.com/ahnesi) page.
 My most recent project, was a peer-to-peer (P2P) cloud system that connects gamers to each other (G2G) that can be deployed in a blockchain and supports automatic payment. This project is still ongoing.
 I also created a telegram bot that lets user register and connect to a decentralized lottery on the Ethereum blockchain. This project was written in Solidity and supports payments in USDT.
 
