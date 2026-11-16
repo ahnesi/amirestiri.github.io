@@ -20,11 +20,15 @@ Greetings!
 
 <h2>Experience</h2>
 
+<h3>Founding Engineer & FDE Lead @ Voltai</h3>
+I joined Voltai, a Sequoia-backed startup building AI agents for semiconductor companies, as a founding engineer in February 2024. I wrote agentic AI code for the core product and owned the company's infrastructure end to end. As the product moved into customer deployments, I started and led the Forward Deployed Engineering (FDE) team. I designed the deployment architecture that lets Voltai run inside customer-managed environments on AWS, Azure and GCP, and deployed it on-site with customers. I also managed customer relationships, from scoping and setting expectations through rollout and support.
+
+<h3>Associate Researcher @ Huawei Noah's Ark Lab</h3>
+At Huawei Noah's Ark Lab in Montreal, I worked in the NetMind team, which develops the tools needed for the next stage of Native-AI in 6G. With my colleagues I implemented, tested and proposed different methods for decentralized learning and knowledge aggregation of ML models in distributed environments. As part of this project I researched probabilistic and information-theoretic methods to measure, constrain and direct the flow of ML information in networks, to make the communication of knowledge more efficient. My main focus was on Optimal Transport, Information Bottleneck and related research directions.
+
 <h3>AI Expert @ FANAP</h3>
 I've had the chance to work alongside many talented people and learn a lot from them. I started my career as an intern at FANAP (Tehran, Iran) as an AI expert. I directly contributed to 2 projects. During that time I had the chance to explore my interest in the field of Artificial Intelligence (AI) and Machine Learning (ML). The first project involved creating an Automated Speech Recognition (ASR) system in persian language. This model was used as an assistant to help people with visual disabilities to complete their mobile banking tasks. The goal of the second project was to create a smart gym mirror for home workouts that would give helpful feedback on how to perform workouts. I helped in creating and compressing the pose estimation model and to deploy it on mobile phones with the help of Unity engine.
 
-<h3>Associate Researcher @ Huawei Noah's Ark Lab</h3>
-Currently, I am working in Huawei Noah's Ark Lab as a research engineer. At Net-Mind we focus on developing the necessary tools for next stage Native-AI in 6G. With the help of my colleagues we have implemented, tested and proposed different methods for decentralized learning and knowledge aggregation of ML models in distributed environments. As a branch of this project I am currently researching on probabilistic and information theoretic methods to measure, constrain and direct the flow of ML Information in networks to optimize the communication of knowledge and information. My main focus is on Optimal Transport, Information Bottleneck and various other methods branching from these research directions.
 
 
 <h2>Research Experience</h2>

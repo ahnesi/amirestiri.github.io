@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Amir Estiri"
-description              : &description "Research Engineer"
+description              : &description "Founding Engineer & FDE Lead"
 url                      : https://ahnesi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/amirestiri.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "ahnesi/amirestiri.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amir (Hossein) Estiri"
   avatar           : "amir-avatar.png"
-  bio              : "Research Engineer @ Huawei Noah's Ark Lab"
+  bio              : "Founding Engineer & FDE Lead @ Voltai"
   location         : "Montreal, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
