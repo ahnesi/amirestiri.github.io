@@ -20,7 +20,7 @@ Greetings!
 
 <h2>Experience</h2>
 
-<h3>FDE Lead (2025 – Present) & Founding Engineer (Feb 2024 – 2025) @ Voltai</h3>
+<h3>FDE Lead (Nov 2025 – Present) & Founding Engineer (Feb 2024 – Nov 2025) @ Voltai</h3>
 I joined Voltai, a Sequoia-backed startup building AI agents for semiconductor companies, as a founding engineer in February 2024. I wrote agentic AI code for the core product and owned the company's infrastructure end to end. As the product moved into customer deployments, I started and led the Forward Deployed Engineering (FDE) team. I designed the deployment architecture that lets Voltai run inside customer-managed environments on AWS, Azure and GCP, and deployed it on-site with customers. I also managed customer relationships, from scoping and setting expectations through rollout and support. My team of 4 has delivered around 20 successful enterprise deployments, including environments with SOC 2, ITAR and FedRAMP requirements.
 
 <h3>Associate Machine Learning Researcher @ Huawei Noah's Ark Lab (Mar 2022 – Feb 2024)</h3>
