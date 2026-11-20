@@ -12,7 +12,7 @@ redirect_from:
 
 Greetings!
 
-    I'm a founding engineer at [Voltai](https://voltai.com), where I lead the Forward Deployed Engineering (FDE) team and build AI agents for semiconductor companies. Before that, I was an Associate Machine Learning Researcher at Huawei Noah's Ark Lab in Montreal, working in the NetMind team. I completed a master's degree in Computer Science at McGill University and did my undergrad in Computer Engineering at Sharif University of Technology. In high school I won a gold medal at the International Physics Olympiad (IPhO) 2016, after ranking 1st and winning gold at the Iranian National Physics Olympiad. That experience cemented in me a love for physics and the realm of theoretical thinking.
+    I'm a founding engineer at [Voltai](https://voltai.com), where I lead the Forward Deployed Engineering (FDE) team and build AI agents for semiconductor companies. Before that, I was an Associate Machine Learning Researcher at Huawei Noah's Ark Lab in Montreal, working in the NetMind team. I completed a master's degree in Computer Science at McGill University and did my undergrad in Computer Engineering at Sharif University of Technology. In high school I won a gold medal at the International Physics Olympiad (IPhO) 2016, after ranking 1st and winning gold at the National Physics Olympiad. That experience cemented in me a love for physics and the realm of theoretical thinking.
 
 
 <!-- <h2>Interests</h2> -->
@@ -27,7 +27,7 @@ I joined Voltai, a Sequoia-backed startup building AI agents for semiconductor c
 At Huawei Noah's Ark Lab in Montreal, I worked in the NetMind team, which develops the tools needed for the next stage of Native-AI in 6G. With my colleagues I implemented, tested and proposed different methods for decentralized learning and knowledge aggregation of ML models in distributed environments. As part of this project I researched probabilistic and information-theoretic methods to measure, constrain and direct the flow of ML information in networks, to make the communication of knowledge more efficient. My main focus was on Optimal Transport, Information Bottleneck and related research directions.
 
 <h3>AI Expert @ FANAP (Mar 2019 – Sep 2020)</h3>
-I've had the chance to work alongside many talented people and learn a lot from them. I started my career at FANAP (Tehran, Iran) as an AI expert. I directly contributed to 2 projects. During that time I had the chance to explore my interest in the field of Artificial Intelligence (AI) and Machine Learning (ML). The first project involved creating an Automated Speech Recognition (ASR) system in persian language. This model was used as an assistant to help people with visual disabilities to complete their mobile banking tasks. The goal of the second project was to create a smart gym mirror for home workouts that would give helpful feedback on how to perform workouts. I helped in creating and compressing the pose estimation model and to deploy it on mobile phones with the help of Unity engine.
+I've had the chance to work alongside many talented people and learn a lot from them. I started my career at FANAP as an AI expert. I directly contributed to 2 projects. During that time I had the chance to explore my interest in the field of Artificial Intelligence (AI) and Machine Learning (ML). The first project involved creating an Automated Speech Recognition (ASR) system. This model was used as an assistant to help people with visual disabilities to complete their mobile banking tasks. The goal of the second project was to create a smart gym mirror for home workouts that would give helpful feedback on how to perform workouts. I helped in creating and compressing the pose estimation model and to deploy it on mobile phones with the help of Unity engine.
 
 
 
@@ -56,7 +56,7 @@ See all on [Google Scholar](https://scholar.google.ca/citations?user=xk759nwAAAA
 <h2>Honors</h2>
 
 * Gold Medal, International Physics Olympiad (IPhO) 2016
-* Gold Medal, Iranian National Physics Olympiad (ranked 1st)
+* Gold Medal, National Physics Olympiad (ranked 1st)
 
 
 
